@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.yskgK-vV.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Blog/Axios的重新学习.md","filePath":"Blog/Axios的重新学习.md"}'),a={name:"Blog/Axios的重新学习.md"};function s(r,_,c,n,i,p){return o(),t("div")}const m=e(a,[["render",s]]);export{l as __pageData,m as default};

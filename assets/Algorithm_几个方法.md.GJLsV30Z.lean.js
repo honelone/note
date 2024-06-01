@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as n}from"./chunks/framework.yskgK-vV.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Algorithm/几个方法.md","filePath":"Algorithm/几个方法.md"}'),h={name:"Algorithm/几个方法.md"},l=n("",1),k=[l];function p(t,e,r,E,d,g){return a(),i("div",null,k)}const c=s(h,[["render",p]]);export{y as __pageData,c as default};

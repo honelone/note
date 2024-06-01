@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as n}from"./chunks/framework.yskgK-vV.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Memo/01.浏览器记录.md","filePath":"Memo/01.浏览器记录.md"}'),l={name:"Memo/01.浏览器记录.md"},p=n("",14),h=[p];function t(k,e,r,E,d,g){return a(),i("div",null,h)}const F=s(l,[["render",t]]);export{c as __pageData,F as default};

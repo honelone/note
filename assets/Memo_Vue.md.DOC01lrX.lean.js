@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as n}from"./chunks/framework.yskgK-vV.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Memo/Vue.md","filePath":"Memo/Vue.md"}'),l={name:"Memo/Vue.md"},e=n("",8),p=[e];function h(t,k,r,E,d,c){return a(),i("div",null,p)}const g=s(l,[["render",h]]);export{u as __pageData,g as default};

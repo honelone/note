@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.yskgK-vV.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Blog/document不常用事件.md","filePath":"Blog/document不常用事件.md"}'),a={name:"Blog/document不常用事件.md"};function c(n,r,s,_,d,m){return o(),t("div")}const l=e(a,[["render",c]]);export{i as __pageData,l as default};

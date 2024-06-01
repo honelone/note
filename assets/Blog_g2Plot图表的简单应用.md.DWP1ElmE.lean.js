@@ -1,0 +1,1 @@
+import{_ as t,c as e,o}from"./chunks/framework.yskgK-vV.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Blog/g2Plot图表的简单应用.md","filePath":"Blog/g2Plot图表的简单应用.md"}'),a={name:"Blog/g2Plot图表的简单应用.md"};function r(_,s,c,n,l,p){return o(),e("div")}const m=t(a,[["render",r]]);export{i as __pageData,m as default};

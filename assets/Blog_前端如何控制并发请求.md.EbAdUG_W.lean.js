@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as _}from"./chunks/framework.yskgK-vV.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Blog/前端如何控制并发请求.md","filePath":"Blog/前端如何控制并发请求.md"}'),a={name:"Blog/前端如何控制并发请求.md"};function o(r,s,c,n,p,d){return _(),t("div")}const m=e(a,[["render",o]]);export{l as __pageData,m as default};

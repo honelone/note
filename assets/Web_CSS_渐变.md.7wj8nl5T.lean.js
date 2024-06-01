@@ -1,0 +1,1 @@
+import{_ as i,c as s,o as l,a1 as a}from"./chunks/framework.yskgK-vV.js";const E=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Web/CSS/渐变.md","filePath":"Web/CSS/渐变.md"}'),e={name:"Web/CSS/渐变.md"},n=a("",5),t=[n];function d(p,h,o,r,k,c){return l(),s("div",null,t)}const u=i(e,[["render",d]]);export{E as __pageData,u as default};
